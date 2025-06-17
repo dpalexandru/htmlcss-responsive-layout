@@ -1,1 +1,11 @@
 /* Soluzione qui */
+
+/* Media querry per tablet  */
+
+@media all and (min-width: 768px) {
+
+  #topbar {
+    justify-content: left;
+    padding: 0 5px;
+  }
+}
