@@ -81,4 +81,9 @@
     padding: 10px 30px;
   }
 
+  footer {
+    display: flex;
+    justify-content: space-between;
+  }
+
 }
