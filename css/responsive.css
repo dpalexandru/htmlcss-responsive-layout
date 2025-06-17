@@ -73,4 +73,12 @@
     width: 30%;
   }
 
+  .social-networks .label {
+    display: initial;
+  }
+
+  .social-networks .btn {
+    padding: 10px 30px;
+  }
+
 }
