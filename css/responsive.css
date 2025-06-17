@@ -6,6 +6,9 @@
 
   #topbar {
     justify-content: left;
-    padding: 0 5px;
+  }
+
+  .recipe {
+    padding: 20px;
   }
 }
