@@ -15,4 +15,10 @@
   .recipe-origin {
     display: inline;
   }
+
+  .recipe-name {
+    font-size: 35px;
+  }
+
+
 }
