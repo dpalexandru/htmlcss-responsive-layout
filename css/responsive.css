@@ -20,5 +20,13 @@
     font-size: 35px;
   }
 
+  .quick-notes ul {
+    display: flex;
+    flex-wrap: wrap;
+  }
+
+  .quick-notes ul li {
+    width: calc(100%/3);
+  }
 
 }
