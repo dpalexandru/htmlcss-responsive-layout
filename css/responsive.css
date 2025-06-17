@@ -86,6 +86,10 @@
     justify-content: space-between;
   }
 
+  address {
+    text-align: left;
+  }
+
 }
 
 /* Media querry per descktop Large Mobile */
